@@ -11,8 +11,11 @@ public class Main {
 
         pak2.qwe m1= new pak2.qwe(645);
 
-       // System.out.println(m1.id1);         //Хочу чтобы стирока была правильной!
+        System.out.println(m1.id1);         //Хочу чтобы строка была правильной!
 
+        pak2.qwe m2= new pak2.qwe(84656);
+
+        System.out.println(m2.id1);         //Хочу чтобы строка была правильной!
 
     }
 }
